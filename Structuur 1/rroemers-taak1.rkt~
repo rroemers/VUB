@@ -1,0 +1,8 @@
+#lang racket
+(#%require racket/trace)
+
+;Taak 1: Structuur en interpretatie van computerprogrammas
+;Rob Roemers - Rolnummer: 0517555
+;Oktober 2014
+
+
